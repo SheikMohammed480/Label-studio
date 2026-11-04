@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-11-03T19:25:04.057395",
+  "execution_seconds": 0.864675,
+  "total_images_scanned": 17963,
+  "total_tasks_in_db": 18300,
+  "total_matched": 16423,
+  "tier_counts": {
+    "exact": 15653,
+    "prefix_stripped": 269,
+    "original_name": 501
+  },
+  "projects_restored": {
+    "6": {
+      "count": 5199,
+      "title": "Floorplan_Door_5K"
+    },
+    "8": {
+      "count": 4796,
+      "title": "5000 floorplans(5200-10199)"
+    },
+    "53": {
+      "count": 195,
+      "title": "Mathangi"
+    },
+    "49": {
+      "count": 178,
+      "title": "Rexin"
+    },
+    "52": {
+      "count": 195,
+      "title": "Mohammed Harish"
+    },
+    "26": {
+      "count": 65,
+      "title": "Ganesh"
+    },
+    "44": {
+      "count": 195,
+      "title": "Vasanthanilavan B"
+    },
+    "14": {
+      "count": 375,
+      "title": "Manivel"
+    },
+    "19": {
+      "count": 316,
+      "title": "Rexin"
+    },
+    "12": {
+      "count": 338,
+      "title": "Mohammed Harish"
+    },
+    "45": {
+      "count": 147,
+      "title": "Balamugunthan Raja"
+    },
+    "17": {
+      "count": 280,
+      "title": "Yashoda"
+    },
+    "33": {
+      "count": 195,
+      "title": "Aravindan Chinnadurai"
+    },
+    "15": {
+      "count": 323,
+      "title": "Naveen kumar"
+    },
+    "40": {
+      "count": 194,
+      "title": "Dharani R"
+    },
+    "55": {
+      "count": 195,
+      "title": "Manivel"
+    },
+    "41": {
+      "count": 137,
+      "title": "Karthikeyan R"
+    },
+    "54": {
+      "count": 160,
+      "title": "Naveen"
+    },
+    "13": {
+      "count": 268,
+      "title": "Samuvel Ajay"
+    },
+    "46": {
+      "count": 113,
+      "title": "Harikrishnan"
+    },
+    "50": {
+      "count": 193,
+      "title": "samuvel"
+    },
+    "18": {
+      "count": 260,
+      "title": "sheik"
+    },
+    "42": {
+      "count": 110,
+      "title": "Ramesh Tamilarasan"
+    },
+    "51": {
+      "count": 195,
+      "title": "prasanna"
+    },
+    "16": {
+      "count": 281,
+      "title": "Mathangi"
+    },
+    "38": {
+      "count": 121,
+      "title": "Asvithan Karthik"
+    },
+    "10": {
+      "count": 200,
+      "title": "Prasanna"
+    },
+    "47": {
+      "count": 193,
+      "title": "sheik"
+    },
+    "32": {
+      "count": 195,
+      "title": "Mohanraj"
+    },
+    "29": {
+      "count": 82,
+      "title": "Vignesh wilson"
+    },
+    "37": {
+      "count": 127,
+      "title": "Manoj Saravanan"
+    },
+    "36": {
+      "count": 63,
+      "title": "Keerthana"
+    },
+    "31": {
+      "count": 46,
+      "title": "suryakala"
+    },
+    "35": {
+      "count": 65,
+      "title": "Reshma Shree R"
+    },
+    "39": {
+      "count": 104,
+      "title": "Hiroshini"
+    },
+    "30": {
+      "count": 39,
+      "title": "Catherine Jennifer"
+    },
+    "34": {
+      "count": 104,
+      "title": "Janani Sethuraman"
+    },
+    "9": {
+      "count": 3,
+      "title": "4 images remaining for 10000"
+    },
+    "43": {
+      "count": 174,
+      "title": "Ahamed Raashith A"
+    },
+    "56": {
+      "count": 4,
+      "title": "Yashodha"
+    }
+  },
+  "unmatched_images_count": 1540,
+  "missing_tasks_count": 1877,
+  "missing_labeled_count": 261,
+  "missing_unlabeled_count": 1616
+}

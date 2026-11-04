@@ -1,0 +1,49 @@
+# Virtual Environments
+LS/
+venv/
+.venv/
+env/
+ENV/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+*.egg
+*.pytest_cache/
+
+# Node & Frontend dependencies
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.turbo/
+.nx/
+
+# Model weights & large binary files (GitHub limit: 100MB)
+*.pt
+*.pth
+*.bin
+*.onnx
+*.weights
+*.h5
+*.ckpt
+
+# Databases, media & local caches
+*.sqlite3
+*.db
+*.log
+local_settings.py
+.env
+cache/
+media/
+restored_media/
+
+# Git sub-repository backups
+*.git_sub_backup
+.git_sub_backup/
